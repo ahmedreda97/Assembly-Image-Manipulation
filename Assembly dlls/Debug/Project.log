@@ -1,0 +1,7 @@
+﻿  Assembling main.asm...
+main.asm(286): warning A6004: procedure argument or local not referenced : Sizee
+main.asm(313): warning A6004: procedure argument or local not referenced : hInstance
+main.asm(313): warning A6004: procedure argument or local not referenced : fdwReason
+main.asm(313): warning A6004: procedure argument or local not referenced : lpReserved
+  Project.vcxproj -> C:\Users\omar\Desktop\IP Assembly - Copy\DLLSampleTest\Debug\Project.dll
+  Project.vcxproj -> C:\Users\omar\Desktop\IP Assembly - Copy\DLLSampleTest\Debug\Project.pdb (Full PDB)

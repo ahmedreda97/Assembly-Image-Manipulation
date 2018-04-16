@@ -1,0 +1,55 @@
+G:\Collage\FCIS Projects\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+G:\Collage\FCIS Projects\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+G:\Collage\FCIS Projects\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+G:\Collage\FCIS Projects\Image Processing\Image Processing\obj\Debug\Image Processing.csprojResolveAssemblyReference.cache
+G:\Collage\FCIS Projects\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+G:\Collage\FCIS Projects\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+G:\Collage\FCIS Projects\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.Cache
+G:\Collage\FCIS Projects\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+G:\Collage\FCIS Projects\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+D:\3rd year first semester\Assembly\proj\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+D:\3rd year first semester\Assembly\proj\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+D:\3rd year first semester\Assembly\proj\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+D:\3rd year first semester\Assembly\proj\Image Processing\Image Processing\obj\Debug\Image Processing.csprojResolveAssemblyReference.cache
+D:\3rd year first semester\Assembly\proj\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+D:\3rd year first semester\Assembly\proj\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+D:\3rd year first semester\Assembly\proj\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.Cache
+D:\3rd year first semester\Assembly\proj\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+D:\3rd year first semester\Assembly\proj\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+D:\3rd year first semester\Assembly\proj\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+C:\Users\omar\Desktop\IP Assembly\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+C:\Users\omar\Desktop\IP Assembly\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+C:\Users\omar\Desktop\IP Assembly\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+C:\Users\omar\Desktop\IP Assembly\Image Processing\Image Processing\obj\Debug\Image Processing.csprojResolveAssemblyReference.cache
+C:\Users\omar\Desktop\IP Assembly\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+C:\Users\omar\Desktop\IP Assembly\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+C:\Users\omar\Desktop\IP Assembly\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.Cache
+C:\Users\omar\Desktop\IP Assembly\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+C:\Users\omar\Desktop\IP Assembly\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+C:\Users\omar\Desktop\TEST ASSEMBLY PROJECT\IP Assembly\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+C:\Users\omar\Desktop\TEST ASSEMBLY PROJECT\IP Assembly\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+C:\Users\omar\Desktop\TEST ASSEMBLY PROJECT\IP Assembly\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+C:\Users\omar\Desktop\TEST ASSEMBLY PROJECT\IP Assembly\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+C:\Users\omar\Desktop\TEST ASSEMBLY PROJECT\IP Assembly\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+C:\Users\omar\Desktop\TEST ASSEMBLY PROJECT\IP Assembly\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.Cache
+C:\Users\omar\Desktop\TEST ASSEMBLY PROJECT\IP Assembly\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+C:\Users\omar\Desktop\TEST ASSEMBLY PROJECT\IP Assembly\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+C:\Users\omar\Desktop\TEST ASSEMBLY PROJECT\IP Assembly\Image Processing\Image Processing\obj\Debug\Image Processing.csprojResolveAssemblyReference.cache
+C:\Users\omar\Desktop\IP Assembly - Copy\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+C:\Users\omar\Desktop\IP Assembly - Copy\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+C:\Users\omar\Desktop\IP Assembly - Copy\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+C:\Users\omar\Desktop\IP Assembly - Copy\Image Processing\Image Processing\obj\Debug\Image Processing.csprojResolveAssemblyReference.cache
+C:\Users\omar\Desktop\IP Assembly - Copy\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+C:\Users\omar\Desktop\IP Assembly - Copy\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+C:\Users\omar\Desktop\IP Assembly - Copy\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.Cache
+C:\Users\omar\Desktop\IP Assembly - Copy\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+C:\Users\omar\Desktop\IP Assembly - Copy\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+D:\3rd year first semester\Assembly\Proj fina\Assembly Project\IP Assembly\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+D:\3rd year first semester\Assembly\Proj fina\Assembly Project\IP Assembly\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+D:\3rd year first semester\Assembly\Proj fina\Assembly Project\IP Assembly\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+D:\3rd year first semester\Assembly\Proj fina\Assembly Project\IP Assembly\Image Processing\Image Processing\obj\Debug\Image Processing.csprojResolveAssemblyReference.cache
+D:\3rd year first semester\Assembly\Proj fina\Assembly Project\IP Assembly\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+D:\3rd year first semester\Assembly\Proj fina\Assembly Project\IP Assembly\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+D:\3rd year first semester\Assembly\Proj fina\Assembly Project\IP Assembly\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.Cache
+D:\3rd year first semester\Assembly\Proj fina\Assembly Project\IP Assembly\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+D:\3rd year first semester\Assembly\Proj fina\Assembly Project\IP Assembly\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
